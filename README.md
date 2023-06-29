@@ -1,4 +1,4 @@
-# [Contacts Application](https://sspcontactsapp.ccbp.tech/)
+# [Contacts App](https://sspcontactsapp.ccbp.tech/)
 
 - Third-party packages
   - uuid
